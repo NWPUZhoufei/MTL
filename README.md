@@ -6,9 +6,9 @@ Pytorch source code for the following publication:
 - [NumPy](http://www.numpy.org/)
 - [SciPy](https://www.scipy.org/)
 - [tqdm](https://pypi.python.org/pypi/tqdm)
-- [torch] 
-- [torchvision] 
-- [qpth]
+- torch
+- torchvision
+- qpth
 
 ## Preparation
 Process the base dataset `base_data_process.py`
